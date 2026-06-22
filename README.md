@@ -2,6 +2,8 @@
 
 Este directorio contiene el backend del sistema de gestión gastronómica, encargado de la lógica de negocio, persistencia en base de datos, autenticación y comunicación en tiempo real a través de WebSockets.
 
+[Video de explicacion proyecto](https://youtu.be/k3hljpUq8lQ)
+
 ## Tecnologías Utilizadas
 
 * Python 3.13
